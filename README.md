@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonPeng1310&count_private=true&show_icons=true&theme=dracula&locale=cn)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonPeng1310&hide=css,html,swig,javascript&&layout=compact&locale=cn&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonPeng1310&layout=compact&locale=cn&theme=dracula)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JasonPeng1310&theme=dracula)
 <!--
 **JasonPeng1310/JasonPeng1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
